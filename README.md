@@ -59,7 +59,7 @@ recipient = ""
 
 If you have any questions, let me know. 
 
-Hope this helps,
+Hope this helps. It was fun setting up
 Joe Simora
 
 
