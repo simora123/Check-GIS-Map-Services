@@ -1,20 +1,20 @@
 # Check-GIS-Map-Services
 
-#-------------------------------------------------------------------------------
-# Name:        GISServices_Checks
-#
-# Purpose:     Checks GIS Services on GIS Server. If any services are down,
-#              send an email notifying recipients
-#
-# Author:      Joseph Simora, York County Planning Commission
-#
-# Created:     11/19/2018
-#
-# Updated:
-#
-# Description: Checks GIS Services on GIS Server. If any services are down,
-#              send an email notifying recipients
-#-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+ Name:        GISServices_Checks
+
+ Purpose:     Checks GIS Services on GIS Server. If any services are down,
+              send an email notifying recipients
+
+ Author:      Joseph Simora, York County Planning Commission
+
+ Created:     11/19/2018
+
+ Updated:
+
+ Description: Checks GIS Services on GIS Server. If any services are down,
+              send an email notifying recipients
+-------------------------------------------------------------------------------
 
 Check GIS Server details and credentials prior to updating variables in this script.
 
