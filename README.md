@@ -41,27 +41,45 @@ username = ""
 password = ""
 
 -GIS Server Name Port that is opened for outside commuication
+
 port = 80
 
 -Rest URL of GIS Server (e.g "https://arcweb.ycpc.org/arcgis/rest")
+
 RestURL = ""
 
 -Email variables
+
 -Email Server Name
+
 -Emailserver = 'mail.sctfpa.org'
+
 Emailserver = ""
+
 -Email Server Name Port that is opened for outside commuication (Standard port is 465)
+
 Eport = 465
+
 -Email Server Username
+
 Euser = ""
+
 -Email Server Password
+
 Epassword = ""
+
 -Email Subject
+
 subject = "ATTENTION: GIS SERVICES ARE DOWN"
+
 -Email Sender
+
 sender = ""
+
 -recipient email(s). If you want to email more than one recipient use a commas to seperate emails.
+
 -(e.g. 'jsimora@ycpc.org, joseph_simora@yahoo.com). The comma is used in the python script to split emails recipients
+
 recipient = ""
 
 If you have any questions, let me know. 
