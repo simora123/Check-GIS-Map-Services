@@ -26,35 +26,35 @@ Anything with a "" will need to be filled with additional information
 
 Email and GIS Server ports will vary depending on your set up.
 
-# Server and Admin variables
-#GIS Server Name
+-Server and Admin variables
+-GIS Server Name
 serverName = ""
-#GIS Server Username
+-GIS Server Username
 username = ""
-#GIS Server Password
+-GIS Server Password
 password = ""
-# GIS Server Name Port that is opened for outside commuication
+-GIS Server Name Port that is opened for outside commuication
 port = 80
 
-# Rest URL of GIS Server (e.g "https://arcweb.ycpc.org/arcgis/rest")
+-Rest URL of GIS Server (e.g "https://arcweb.ycpc.org/arcgis/rest")
 RestURL = ""
 
-#Email variables
-# Email Server Name
-# Emailserver = 'mail.sctfpa.org'
+-Email variables
+-Email Server Name
+-Emailserver = 'mail.sctfpa.org'
 Emailserver = ""
-# Email Server Name Port that is opened for outside commuication (Standard port is 465)
+-Email Server Name Port that is opened for outside commuication (Standard port is 465)
 Eport = 465
-#Email Server Username
+-Email Server Username
 Euser = ""
-#Email Server Password
+-Email Server Password
 Epassword = ""
-# Email Subject
+-Email Subject
 subject = "ATTENTION: GIS SERVICES ARE DOWN"
-# Email Sender
+-Email Sender
 sender = ""
-# recipient email(s). If you want to email more than one recipient use a commas to seperate emails.
-# (e.g. 'jsimora@ycpc.org, joseph_simora@yahoo.com). The comma is used in the python script to split emails recipients
+-recipient email(s). If you want to email more than one recipient use a commas to seperate emails.
+-(e.g. 'jsimora@ycpc.org, joseph_simora@yahoo.com). The comma is used in the python script to split emails recipients
 recipient = ""
 
 If you have any questions, let me know. 
