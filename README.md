@@ -27,12 +27,19 @@ Anything with a "" will need to be filled with additional information
 Email and GIS Server ports will vary depending on your set up.
 
 -Server and Admin variables
+
 -GIS Server Name
+
 serverName = ""
+
 -GIS Server Username
+
 username = ""
+
 -GIS Server Password
+
 password = ""
+
 -GIS Server Name Port that is opened for outside commuication
 port = 80
 
